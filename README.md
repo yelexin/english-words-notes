@@ -1,10 +1,10 @@
 ### 运行效果
 
 #### 使用前
-![使用前](./1.jpg)
+![使用前](https://github.com/yelexin/english-words-notes/blob/master/1.jpg)
 
 #### 使用后
-![使用后](./2.jpg)
+![使用后](https://github.com/yelexin/english-words-notes/blob/master/2.jpg)
 
 ### 本程序可以做什么
 将成批的英语单词从词典中查出释义、音标、例句等内容
